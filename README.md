@@ -5,7 +5,7 @@
 
 </p>
 
-![曾坤の主页](<img src="https://s1.328888.xyz/2022/06/05/WM3CS.png" alt="WM3CS.png" border="0" />)
+![曾坤の主页](https://s1.328888.xyz/2022/06/05/WM3CS.png)
 
 >主页的 Logo 字体已经过压缩，若用本站 Logo 以外的字母会变回默认字体，这里是 [完整字体](https://file.imsyy.top/font/Pacifico-Regular.ttf)
 
