@@ -14,7 +14,7 @@
 ### Demo
 >由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
 
-- [曾坤の主页](https://www.imsyy.top)
+- [曾坤の主页](https://static-bd004b6a-412d-4795-aefc-e181a6efa562.bspapp.com/)
 
 ### 功能
 
